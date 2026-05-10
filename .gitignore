@@ -1,0 +1,13 @@
+.DS_Store
+/bin/
+/dist/
+*.exe
+*.test
+coverage.out
+.idea/
+.vscode/
+
+# Maven / JVM (non parte di questo modulo Go)
+/target/
+pom.xml
+/src/

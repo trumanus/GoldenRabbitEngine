@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Maintainer email
+    url: mailto:trumanus@gmail.com
+    about: Security or private coordination (see SECURITY.md)
